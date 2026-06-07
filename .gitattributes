@@ -1,1 +1,2 @@
 * text=auto
+# trigger redeploy after git reconnect
